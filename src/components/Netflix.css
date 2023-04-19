@@ -1,0 +1,16 @@
+
+
+
+.parent{
+    border: 1px solid red;
+    display: flex;
+}
+
+
+.movies{
+    border: 3px solid blue;
+}
+
+.movies > img{
+    width: 400px;
+}

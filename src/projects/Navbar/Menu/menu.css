@@ -1,0 +1,15 @@
+
+
+
+.menus{
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid red; */
+}
+
+.links{
+/* border: 1px solid red; */
+padding: 1rem;
+text-decoration: none;
+color: black;
+}

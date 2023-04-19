@@ -1,0 +1,11 @@
+
+
+.parent{
+    display: flex;
+    height: 50px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(17, 16, 16);
+    font-weight: bold;
+    align-items: center;
+    justify-content: space-between;
+}
