@@ -1,8 +1,15 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const Elements = () => {
   return (
-    <div>Elements</div>
+    <div>
+    <Link to='element'>
+     Elements
+    </Link>
+    
+
+    </div>
   )
 }
 

@@ -1,0 +1,30 @@
+
+.left_parent{
+    /* border: 1px solid red; */
+    margin-left: 3rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.p_left{
+    /* border: 1px solid red; */
+    padding: 1rem;
+ 
+    font-weight: bold;
+    background-color: white;
+    margin-top: 4rem;
+    text-align: center;
+    font-size: 0.7rem;
+}
+
+
+.left_imags{
+    margin-left: 4rem;
+}
+
+
+.left_imags > img{
+    width: 40%;
+}

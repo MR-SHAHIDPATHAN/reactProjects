@@ -1,8 +1,15 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const Pages = () => {
   return (
-    <div>Pages</div>
+    <div>
+    <Link to='pages'>
+    Pages
+    </Link>
+    
+    
+    </div>
   )
 }
 

@@ -1,8 +1,14 @@
 import React from 'react'
+import SearchIcon from '@mui/icons-material/Search';
 
 const Search = () => {
   return (
-    <div>Search</div>
+    <div>
+    
+    <SearchIcon/>
+      
+    
+    </div>
   )
 }
 

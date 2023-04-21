@@ -1,8 +1,11 @@
 import React from 'react'
+import AccountBoxIcon from '@mui/icons-material/AccountBox';
 
 const Account = () => {
   return (
-    <div>Account</div>
+    <div>
+      <AccountBoxIcon/> Account
+    </div>
   )
 }
 
